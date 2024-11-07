@@ -1,0 +1,5 @@
+osqp
+scipy
+matplotlib
+ipython
+pandas
